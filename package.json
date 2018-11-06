@@ -1,0 +1,12 @@
+{
+  "name": "untitled",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "version": "0.0.0",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+  }
+}
