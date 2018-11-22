@@ -1,12 +1,16 @@
 {
-  "name": "untitled",
-  "description": "",
-  "author": "",
+  "name": "w3cssref dash gen",
+  "description": "Dash CSS documentation generator from www.w3schools.com/cssref/",
+  "author": "Harry Crocker",
   "license": "ISC",
   "version": "0.0.0",
   "scripts": {
     "start": "node ./index.js"
   },
   "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.88.0",
+    "sqlite3": "^4.0.3",
+    "svg2img": "^0.5.0"
   }
 }
