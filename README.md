@@ -4,7 +4,7 @@ https://www.w3schools.com/cssref/
    * css3_pr_*.asp
    * ...
 * Selectors - css_selectors.asp
-   * sel_*.asp****
+   * sel_*.asp
    * ...
 * Functions - css_functions.asp
    * func_*.asp
@@ -18,11 +18,13 @@ https://www.w3schools.com/cssref/
    * Color Values - css_colors_legal.asp
    * Default Values - css_default_values.asp
    * Entities - css_entities.asp
+   * Initial - css_initial.asp
+   * Inherit - css_inherit.asp
         
 ### Directory Structure 
 ```
 .
-└ CSS.docset
+└ CSS3.docset
   ├ docset.json
   ├ icon.png
   ├ icon@2x.png
@@ -35,8 +37,5 @@ https://www.w3schools.com/cssref/
         └ www.w3schools.com/
           └ en-US/
             └ cssref/
-              ├ Properties/
-              ├ Selectors/
-              ├ Functions/
-              └ Guides/
+              └ styles/
 ```       
